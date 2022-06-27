@@ -5,6 +5,7 @@ Hey, soy Bas Bravo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphre
 ## Te dejo algunos enlaces por si quieres saber qué hago:
 
 Te dejo algunos enlaces por si quieres saber más:
+* Mi [CV](https://bbravo.notion.site/Hey-soy-Bas-Bravo-a1abd5a84ccf411bb1c1c6ad6d131243)
 * Web [basbravo.es](https://github.com/BasBravo/BasBravo/blob/main/bbravo.es)
 * Twitter [@basbravo_](https://twitter.com/basbravo_) (ya lo se, está un poco desierto)
 * Instagram [@bas.bravo](https://www.instagram.com/bas.bravo/)
